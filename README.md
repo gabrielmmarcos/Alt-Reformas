@@ -1,14 +1,14 @@
-🛠️ Alt Reformas
+# 🛠️ Alt Reformas
 
 Este é um projeto Front-End desenvolvido para apresentar a empresa Alt Reformas, especializada em serviços de reforma e construção. O objetivo foi criar uma landing page moderna, responsiva e otimizada, transmitindo profissionalismo e clareza nas informações.
 
-🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 HTML5 
 Tailwind CSS 
 JavaScript 
 
-🎯 Funcionalidades
+## 🎯 Funcionalidades
 
 Layout 100% responsivo (desktop, tablet e mobile)
 
